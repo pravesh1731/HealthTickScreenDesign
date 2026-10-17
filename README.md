@@ -7,7 +7,6 @@ A recreation of Health Tick's **Journey** screen and **daily lessons** in Flutte
 - Tap a circle to see that day's lessons, then tap a lesson to open it.
 - Lessons have two page types: **text** pages and **question** pages.
 
-> For a full walkthrough of every part (including how the zig-zag road is calculated and drawn), see **[PROJECT_GUIDE.md](PROJECT_GUIDE.md)**.
 
 ## Run it
 
